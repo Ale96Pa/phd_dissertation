@@ -7,12 +7,12 @@
 This repository contains pointers to the open-source repositories of the projects performed during Alessandro Palma's Ph.D. period that led to his dissertation. Below you can find the table of contents and you can click on the titles you are redirected to the corresponding repository.
 
 &nbsp;1. Introduction  
-&nbsp;&nbsp;&nbsp;1.1. Research Challenges  
+&nbsp;&nbsp;&nbsp;1.1. Research challenges  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1. Poor quantitative assessment boundary  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2. Lack of multi-perspective assessment boundary  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3. Weak decision support boundary  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3. Limited decision support boundary  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.4. Challenges in cyber risk assessment with Attack Graphs  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.5. Challenges in Incident Management Process Assessment   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.5. Challenges in Incident Management Process assessment   
 &nbsp;&nbsp;&nbsp;1.2. Contributions and dissertation structure  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1. Publications   
 
@@ -20,11 +20,11 @@ This repository contains pointers to the open-source repositories of the project
 &nbsp;&nbsp;&nbsp;2.1. ISO/IEC 27001 and 27002  
 &nbsp;&nbsp;&nbsp;2.2. NIST CSF  
 &nbsp;&nbsp;&nbsp;2.3. Research on Information Security Governance  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.1. Quantitative Assessment   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.2. Multi-Perspecttive Assessment   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.3. Decision Support     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.1. Quantitative assessment   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.2. Multi-Perspecttive assessment   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.3. Decision support     
 
-&nbsp;3. Cyber Risk Assessment with Attack Graph  
+&nbsp;3. Cyber risk assessment with Attack Graph  
 &nbsp;&nbsp;&nbsp;3.1. Preliminaries on Attack Graphs    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1. Attack Graph generation pillars  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2. Attack Graph analysis and risk model    
@@ -32,23 +32,24 @@ This repository contains pointers to the open-source repositories of the project
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.1. Attack Graph generation and analysis  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2. Attack Graph scalability analysis    
 &nbsp;&nbsp;&nbsp;3.3. [Attack Graph Scalability Investigation](https://github.com/Ale96Pa/ag_experimental_evaluation)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.1. Vulnerable Network Generator  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.2. Analytical Framework    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.3. Experimental Evaluation of Attack Graph scalability    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.1. Vulnerable network generator  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.2. Analytical framework    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.3. Experimental evaluation of Attack Graph scalability    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.4. [Informativeness of the experimental evaluation](https://github.com/ds-square/self-protecting-ag)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.5. Empirical evaluation on real networks   
 &nbsp;&nbsp;&nbsp;3.4. [Rethinking the Attack Graph Generation and Analysis Process](https://github.com/XAIber-lab/ProgressiveAttackGraph)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. Overview of the progressive approach  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. StatAG: Statistically Significant Generation  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. SteerAG: Steered Genration and Analysis  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. Validation  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. Case Study  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. Case study  
 &nbsp;&nbsp;&nbsp;3.5. [Employing Attack Graph in IoT Data Spaces](https://github.com/Ale96Pa/ag-iot)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.1. System Design and Implementation  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.2. Security Messaging Mechanism  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.1. System sesign and implementation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.2. Security messaging mechanism  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.3. Evaluation  
-&nbsp;&nbsp;&nbsp;3.6. Discussion and Remarks    
+&nbsp;&nbsp;&nbsp;3.6. Discussion and remarks    
 
-&nbsp;4. Process Compliance Assessment for Incident Management  
+&nbsp;4. Process compliance assessment for Incident Management  
 &nbsp;&nbsp;&nbsp;4.1. Preliminaries on process compliance assessment  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.1. Incident Management Process  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.1. Process Mining  
