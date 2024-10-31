@@ -75,7 +75,7 @@ This repository contains pointers to the open-source repositories of the project
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.6.3. Evaluation of the compliance assessment model and system  
 &nbsp;&nbsp;&nbsp;4.7. Case Study Application: ISO/IEC 27035:2023   
 &nbsp;&nbsp;&nbsp;4.8. [Visual Support to IMP Compliance Assessment](https://github.com/Ale96Pa/IMPAVID)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8.1. Requirement collection  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8.1. [Requirement collection](https://docs.google.com/spreadsheets/d/1-oOfeKo2buuGjN-CkMSJJPhcJhORIbUM/edit?usp=sharing&ouid=109275515346257079976&rtpof=true&sd=true)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8.2. System design  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8.3. Usage scenario  
 &nbsp;&nbsp;&nbsp;4.9. Discussion and Remarks   
