@@ -43,7 +43,7 @@ This repository contains pointers to the open-source repositories of the project
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. SteerAG: Steered Genration and Analysis  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. Validation  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.1. Case study  
-&nbsp;&nbsp;&nbsp;3.5. [Employing Attack Graph in IoT Data Spaces](https://github.com/Ale96Pa/ag-iot)  
+&nbsp;&nbsp;&nbsp;3.5. [Employing Attack Graph in IoT Data Spaces](https://github.com/satrai-lab/SHIELD)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.1. System sesign and implementation  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.2. Security messaging mechanism  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.3. Evaluation  
